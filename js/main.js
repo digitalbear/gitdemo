@@ -1,4 +1,5 @@
 // default latitude and longitude values - Surrey Street, Norwich, NR1 3UY
+// *** this is now being used as part of a GIT Demo ***
 var map;
 var MY_LATITUDE;
 var MY_LONGITUDE;
